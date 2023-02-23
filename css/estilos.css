@@ -1,0 +1,53 @@
+
+h1 {
+    color: #31342C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-top: 2px solid #ffffff; /* borde roja encima */
+    border-right: 2px solid #FFffff; /* borde roja a la derecha */
+    border-bottom: 2px solid #FFffff; /* borde roja abajo*/
+    border-left: 2px solid #ffffff; /* borde roja a la izquierda */
+    }
+    h2 {
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: #31342C;
+    border-top: 2px solid #ffffff; /* borde roja encima */
+    border-right: 2px solid #FFffff; /* borde roja a la derecha */
+    border-left: 2px solid #ffffff; /* borde roja a la izquierda */
+    }
+    
+    h3 {
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-right: 2px solid #FFffff; /* borde roja a la derecha */
+    border-bottom: 2px solid #FFffff; /* borde roja abajo*/
+    border-left: 2px solid #ffffff; /* borde roja a la izquierda */
+    letter-spacing: 6px; /* tamaño del espacio entre cada letra */
+    background-color: #31342C;
+    }
+    
+    h4 {
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #31342C;
+    }
+    
+    body {
+    background-color: #D9D3CC;
+    }
+    
+    p {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #090305;
+    text-align: center;
+    line-height: 15px; /* tamaño de la altura de cada línea */
+    letter-spacing: 1px; /* tamaño del espacio entre cada letra */
+    word-spacing: 5px; /* tamaño del espacio entre cada palabra */
+    text-indent: 30px; /* tamaño del margen de la primera línea del texto */
+    
+    }
